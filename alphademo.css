@@ -1,0 +1,69 @@
+.secce {
+    font-family: 'Lucida Sans Regular';
+    text-align: center;
+    word-spacing: 50px; 
+   }
+   
+.sec2 {   
+    text-align: center;
+    text-decoration: dashed;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 200px;
+}
+
+.sec3 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(231, 217, 22);
+    text-align: center;
+    text-decoration: brown;
+}
+
+.secx {
+    background-color: rgb(90, 193, 201);
+    text-align: center;
+    padding: 27px;
+    border-radius: 50px;
+    margin: 40px;
+    margin-bottom: 20px;
+    margin-right: 900px;
+  
+}
+
+
+.secy {
+    background-color: rgb(22, 228, 50);
+    text-align: center;
+    padding: 10px;
+    border-radius: 50px;
+    margin: 40px;
+    margin-bottom: 12000opx;
+    margin-top: 2px;
+    margin-right: 900px;
+}
+
+.secz {
+    background-color: rgb(90, 109, 163);
+    text-align: center;
+    padding: 10px;
+    border-radius: 50px;
+    margin: 40px;
+    margin-bottom: 20px;
+    margin-right: 900px;
+}
+
+
+.sec4 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(224, 227, 235);
+}
+
+.sec5 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(231, 217, 22);
+
+}
+
+.sec6 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(224, 227, 235);
+}
